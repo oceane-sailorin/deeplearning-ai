@@ -41,6 +41,6 @@
      + Week3 - Sequence models & Attention mechanism
 
 
-Due to the Coursera Code, the graded lines are hidden
+Due to the Coursera Code, the graded lines are not completed
 Only the result is displayed.
 All the assignments and the non generated files are from the Coursera Courses
